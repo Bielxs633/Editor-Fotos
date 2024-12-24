@@ -12,11 +12,11 @@ Este projeto é um **Editor de Fotos**. O editor permite ao usuário fazer uploa
 ---
 
 ## Funcionalidades
-- Upload de imagens.
-- Ajuste de brilho, contraste e saturação.
-- Aplicação de filtros predefinidos (ex: sepia).
-- Opção de salvar a imagem editada.
-- Interface simples e interativa.
+1. Upload de imagens.
+2. Ajuste de brilho, contraste e saturação.
+3. Aplicação de filtros predefinidos (ex: sepia).
+4. Opção de salvar a imagem editada.
+5. Interface simples e interativa.
 
 ---
 
